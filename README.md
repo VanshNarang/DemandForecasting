@@ -1,5 +1,5 @@
 # Demand Forecasting
-Predict quantity to be ordered per SKU by forecasting Sales for next month based on this month's data.
+Predict quantity to be ordered per SKU by forecasting Sales based on this month's data.
 
 ## About the Data
 The Data can be found in the Excel workbook. There are 2 sheets of importance that were present pre-analysis.
