@@ -13,7 +13,7 @@ The Data can be found in the Excel workbook. There are 2 sheets of importance th
  ### Exponential Smoothing
  
  Exponential smoothing is a rule of thumb technique for smoothing time series data using the exponential window function. Whereas in the simple moving average the past observations are weighted equally, exponential functions are used to assign exponentially decreasing weights over time. It is an easily learned and easily applied procedure for making some determination based on prior assumptions by the user, such as seasonality. Exponential smoothing is often used for analysis of time-series data.
- <center>
+<div style="text-align:center">
  <img src = 'https://wikimedia.org/api/rest_v1/media/math/render/svg/3e907f6034bf9fdf4224ac372adc1e8900d96ff1' align = center>
- </center>
+ </div>
 
